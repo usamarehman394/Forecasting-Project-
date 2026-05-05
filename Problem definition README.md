@@ -1,0 +1,1 @@
+The objective of this project is to forecast the food demand (number of orders) for various meal-center combinations for a food delivery service. Accurate demand forecasting is crucial for inventory management, minimizing food waste, and optimizing logistics.
