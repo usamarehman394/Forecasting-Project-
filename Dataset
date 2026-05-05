@@ -1,0 +1,15 @@
+I uploaded the libraraies with the code like:
+import pandas as pd
+import matplotlib as plt
+
+Then I uploaded the dataset with the code:
+rom google.colab import files
+uploaded = files.upload()
+
+Then I made sure that I was able to see my dataset with all my rows and columns so I used this code:
+import pandas as pd
+df = pd.read_csv("train.csv")
+df.head()
+
+Then I made sure that every information was there so I used:
+df.info()
