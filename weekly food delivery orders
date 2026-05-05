@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+
+plt.figure()
+plt.plot(weekly_data["week"], weekly_data["num_orders"])
+plt.xlabel("Week")
+plt.ylabel("Total Orders")
+plt.title("Weekly Food Delivery Orders")
+plt.show()
+
