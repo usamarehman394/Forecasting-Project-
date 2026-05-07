@@ -38,5 +38,5 @@ All individual models are objectively compared using:
 ## 👥 Contributors
 - **Komal** - Repository Setup, Data Preparation, Initial EDA (Trends & Stationarity), and Problem Definition.
 - **Badr Kourdad** - Advanced EDA (Marketing Impact), Validation Strategy (Chronological Split), GitHub Documentation, and Individual ARIMA Modeling.
-- **[name]** - 
+- **Jainil Bhatasana** - 
 - **[name]** - 
