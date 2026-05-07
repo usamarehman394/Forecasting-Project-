@@ -38,4 +38,4 @@ All individual models are objectively compared using:
 - **Komal** - Repository Setup, Data Preparation, Initial EDA (Trends & Stationarity), and Problem Definition.
 - **Badr Kourdad** - Advanced EDA (Marketing Impact), Validation Strategy (Chronological Split), GitHub Documentation, and Individual ARIMA Modeling.
 - **Jainil Bhatasana** - Probabilistic Modeling (Gaussian Naïve Bayes), Target Discretization (Binning), and Lead Evaluator for Mean Absolute Error (MAE) Analysis.
-- **[name]** - 
+- **Usama Rehman** - Worked on the Regression-Based Demand Forecasting model, improved the prediction code, and contributed to a clear problem statement.
