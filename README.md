@@ -39,4 +39,4 @@ All individual models are objectively compared using:
 - **Komal** - Repository Setup, Data Preparation, Initial EDA (Trends & Stationarity), and Problem Definition.
 - **Badr Kourdad** - Advanced EDA (Marketing Impact), Validation Strategy (Chronological Split), GitHub Documentation, and Individual ARIMA Modeling.
 - **Jainil Bhatasana** - 
-- **[name]** - 
+- **Usama Rehman** - Problem defination modification and code improvement.
